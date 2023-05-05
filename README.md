@@ -10,7 +10,7 @@ Extra libraries like os, random, string, PIL are used.
 
 You can convert them to an gui, using pyinstaller or auto-py-to-exe.
 
-Thanks to @TomSchimansky for the amazing library "customtkinter".
+App made using CustomTkinter . Thanks to TomSchimansky.
 https://github.com/TomSchimansky/CustomTkinter
 
 
